@@ -168,7 +168,7 @@ function initialiseApp() {
 }
 
 function play() {
-    var audio = new Audio('https://www.freespecialeffects.co.uk/soundfx/sirens/fanfare3.wav');
+    var audio = new Audio('https://www.freespecialeffects.co.uk/soundfx/computers/aolim.wav');
     audio.play();
 }
 
